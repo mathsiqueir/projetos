@@ -1,0 +1,21 @@
+body{
+	background-color: #fafaff;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+	font-size: 50px;
+
+}
+#number{
+	height: 150px;
+	font-size: 100px;
+	font-weight: 700;
+}
+button{
+	margin: 5px;
+	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.53);
+}

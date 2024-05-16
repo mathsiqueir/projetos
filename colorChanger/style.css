@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+.h1{
+	font-size: 1.8rem;
+	font-weight: bolder;
+}
+#container{
+	height: 100vh;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.background{
+	background-color: rgb(35, 35, 35);
+	color: white;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+#btn{
+	margin-top: 15px;
+	padding: 5px 15px;
+	border-radius: 5px;
+}
